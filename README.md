@@ -1,7 +1,5 @@
 # Yassine Tlibi
 
-# 👋 Hi, I’m a Front-End Web Developer
-
 I’m a web developer specializing in **modern, responsive, and scalable front-end solutions**.  
 I focus on building clean user interfaces, high-performance websites, and reliable web experiences using modern frameworks, tools, and AI-assisted workflows.
 
