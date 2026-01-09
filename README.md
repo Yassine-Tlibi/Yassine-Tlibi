@@ -71,14 +71,6 @@ I build clean, scalable user interfaces using **AI-assisted workflows** and mode
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - 💼 Open to freelance & collaboration opportunities
