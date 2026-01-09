@@ -1,87 +1,89 @@
 # Yassine Tlibi
 
-I’m a web developer specializing in **modern, responsive, and scalable front-end solutions**.  
-I focus on building clean user interfaces, high-performance websites, and reliable web experiences using modern frameworks, tools, and AI-assisted workflows.
+🚀 Front-End & Web Developer specializing in **modern, responsive, and performance-focused websites**.  
+I build clean, scalable user interfaces using **AI-assisted workflows** and modern web technologies.
 
 ---
 
-## 🧰 Languages & Tools
+## 🧠 About Me
+
+- 💻 Front-End Web Developer (Websites, Landing Pages, E-commerce)
+- 🤖 AI-assisted development to deliver faster & smarter results
+- 🎯 Focused on clean UI, performance, security, and usability
+- 🌍 Building real-world, production-ready web projects
+- 📈 Always improving workflows and adopting modern tools
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,wordpress,git,github,vercel,netlify,aws,npm,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30" style="padding-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="30" style="padding-right:10px;" />
 </p>
 
 ---
 
-## 🧠 Skills & Expertise
+## 🧩 Skills & Expertise
 
-### Front-End Development Skills
-- WordPress
-- React
-- Next.js
+### Front-End Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
 - Tailwind CSS
-- npm
-- Git & GitHub
-- Vercel
-- Netlify
-- AWS Amplify
-- JSON
+- Responsive & Mobile-First Design
+
+### CMS & Platforms
+- WordPress (custom themes & optimization)
 - Content Management Systems (CMS)
-- Website Security
+- Website Security & Performance Optimization
+
+### Deployment & Tooling
+- Git & GitHub
+- npm
+- Vercel, Netlify, AWS Amplify
+- JSON & API integrations
+
+### AI-Assisted Development
+- AI-driven coding workflows
+- Faster prototyping & debugging
+- Optimized layouts & content structuring
 
 ---
 
-### Front-End Development Languages
-- HTML
-- CSS
-- JavaScript
-- SQL
+## 📦 What I Build
+
+- 🌐 Business Websites
+- 🚀 Landing Pages
+- 🛒 E-commerce Websites
+- 📱 Fully Responsive UI
+- ⚡ Fast, SEO-friendly websites
 
 ---
 
-### Front-End Development Deliverables
-- Front-End Development
-- Landing Pages
-- Business Websites
-- E-commerce Websites
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+</p>
 
 ---
 
-## ⚙️ Development Approach
+## 🤝 Let’s Connect
 
-- Clean, maintainable, and scalable front-end architecture
-- Fully responsive layouts (desktop, tablet, mobile)
-- Performance-optimized builds and fast load times
-- Secure and SEO-friendly structure
-- AI-assisted development used to improve efficiency while maintaining full technical control
+- 💼 Open to freelance & collaboration opportunities
+- 📬 Reach out via GitHub or professional platforms
 
 ---
 
-## 📂 Project Focus
-
-- Marketing & business websites
-- Landing pages with conversion-focused UI
-- Portfolio websites
-- E-commerce front-end interfaces
-
-*(Project demos and repositories can be added here.)*
-
----
-
-## 📫 Contact
-
-- Location: Remote (Tunisia)
-- Freelance-ready for global clients
-
----
-
-## 🔖 Keywords
-
-Front-End Developer · Web Development · WordPress · React · Next.js · Tailwind CSS · JavaScript · Responsive Design · Website Development
-
-
----
-
-## 🔖 Keywords
-
-Web Developer · Website Development · WordPress · Webflow · Front-End · Responsive Design · AI-Assisted Development
+⭐ *Clean code. Smart tools. Real results.*
